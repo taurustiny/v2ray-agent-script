@@ -1023,7 +1023,6 @@ checkIP() {
 	if [[ -n "${customPort}" ]]; then
 		checkDomain="http://${domain}:${customPort}"
 	fi
-	local localIP=
 	localIP=$(curl -s -m 2 "${checkDomain}/ip")
 
 	handleNginx stop
