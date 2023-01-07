@@ -5,4 +5,4 @@
 ```
 0xB08b731653515b083deE362fefFc45d5eb96c35d
 ```
-<img src="https://raw.githubusercontent.com/mack-a/v2ray-agent/master/fodder/donation/main.png" width=300>
+<img src="https://raw.githubusercontent.com/taurustiny/v2ray-agent-script/master/fodder/donation/main.png" width=300>
